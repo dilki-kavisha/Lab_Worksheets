@@ -45,4 +45,5 @@ public class Q_01 {
     static void print(int x) {
         System.out.println("Maximum is : " + x);
     }
+
 }
