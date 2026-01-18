@@ -1,0 +1,8 @@
+package LW_10;
+
+public class Main {
+    public static void main(String[] args) {
+        TableFrame tableFrame = new TableFrame();
+        tableFrame.setVisible(true);
+    }
+}
